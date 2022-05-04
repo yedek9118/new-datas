@@ -1,0 +1,10 @@
+girilmez
+ileri_sag
+ileri_sol
+park_edilmez
+durak
+20km
+30km
+sag_donulmez
+sol_donulmez
+dur
