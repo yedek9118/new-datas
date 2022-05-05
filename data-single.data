@@ -1,4 +1,4 @@
-classes = 12
+classes = 1
 train = /content/new-datas/train.txt
 valid = /content/new-datas/test.txt
 names = /content/new-datas/classes.names
