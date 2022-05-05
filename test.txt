@@ -1,88 +1,138 @@
-/content/my-data2/dataset/000405.jpeg
-/content/my-data2/dataset/000194.jpeg
-/content/my-data2/dataset/feb-0368.jpeg
-/content/my-data2/dataset/feb-0073.jpeg
-/content/my-data2/dataset/feb-0119.jpeg
-/content/my-data2/dataset/feb-0049.jpeg
-/content/my-data2/dataset/flip-0009.jpeg
-/content/my-data2/dataset/feb-0359.jpeg
-/content/my-data2/dataset/00262.jpeg
-/content/my-data2/dataset/flip-0143.jpeg
-/content/my-data2/dataset/flip-0100.jpeg
-/content/my-data2/dataset/feb-0371.jpeg
-/content/my-data2/dataset/feb-0075.jpeg
-/content/my-data2/dataset/feb-0324.jpeg
-/content/my-data2/dataset/flip-0031.jpeg
-/content/my-data2/dataset/flip-0154.jpeg
-/content/my-data2/dataset/flip-0146.jpeg
-/content/my-data2/dataset/00226.jpeg
-/content/my-data2/dataset/000239.jpeg
-/content/my-data2/dataset/000398.jpeg
-/content/my-data2/dataset/feb-0346.jpeg
-/content/my-data2/dataset/feb-0061.jpeg
-/content/my-data2/dataset/feb-0348.jpeg
-/content/my-data2/dataset/feb-0054.jpeg
-/content/my-data2/dataset/flip-0063.jpeg
-/content/my-data2/dataset/00848.jpeg
-/content/my-data2/dataset/000242.jpeg
-/content/my-data2/dataset/00714.jpeg
-/content/my-data2/dataset/flip-0054.jpeg
-/content/my-data2/dataset/000039.jpeg
-/content/my-data2/dataset/000343.jpeg
-/content/my-data2/dataset/00645.jpeg
-/content/my-data2/dataset/00267.jpeg
-/content/my-data2/dataset/flip-0148.jpeg
-/content/my-data2/dataset/feb-0000.jpeg
-/content/my-data2/dataset/flip-0110.jpeg
-/content/my-data2/dataset/flip-0101.jpeg
-/content/my-data2/dataset/flip-0033.jpeg
-/content/my-data2/dataset/flip-0132.jpeg
-/content/my-data2/dataset/000250.jpeg
-/content/my-data2/dataset/flip-0089.jpeg
-/content/my-data2/dataset/00096.jpeg
-/content/my-data2/dataset/000290.jpeg
-/content/my-data2/dataset/feb-0320.jpeg
-/content/my-data2/dataset/000246.jpeg
-/content/my-data2/dataset/feb-0264.jpeg
-/content/my-data2/dataset/feb-0291.jpeg
-/content/my-data2/dataset/flip-0094.jpeg
-/content/my-data2/dataset/00202.jpeg
-/content/my-data2/dataset/feb-0051.jpeg
-/content/my-data2/dataset/feb-0138.jpeg
-/content/my-data2/dataset/feb-0347.jpeg
-/content/my-data2/dataset/flip-0021.jpeg
-/content/my-data2/dataset/flip-0050.jpeg
-/content/my-data2/dataset/feb-0330.jpeg
-/content/my-data2/dataset/feb-0146.jpeg
-/content/my-data2/dataset/flip-0079.jpeg
-/content/my-data2/dataset/000351.jpeg
-/content/my-data2/dataset/flip-0155.jpeg
-/content/my-data2/dataset/00260.jpeg
-/content/my-data2/dataset/flip-0122.jpeg
-/content/my-data2/dataset/sep-0010.jpeg
-/content/my-data2/dataset/00632.jpeg
-/content/my-data2/dataset/000348.jpeg
-/content/my-data2/dataset/flip-0080.jpeg
-/content/my-data2/dataset/00776.jpeg
-/content/my-data2/dataset/feb-0106.jpeg
-/content/my-data2/dataset/feb-0034.jpeg
-/content/my-data2/dataset/00240.jpeg
-/content/my-data2/dataset/feb-0105.jpeg
-/content/my-data2/dataset/00093.jpeg
-/content/my-data2/dataset/feb-0170.jpeg
-/content/my-data2/dataset/feb-0362.jpeg
-/content/my-data2/dataset/feb-0221.jpeg
-/content/my-data2/dataset/00217.jpeg
-/content/my-data2/dataset/flip-0034.jpeg
-/content/my-data2/dataset/feb-0067.jpeg
-/content/my-data2/dataset/00274.jpeg
-/content/my-data2/dataset/00285.jpeg
-/content/my-data2/dataset/000253.jpeg
-/content/my-data2/dataset/000412.jpeg
-/content/my-data2/dataset/feb-0177.jpeg
-/content/my-data2/dataset/flip-0017.jpeg
-/content/my-data2/dataset/flip-0138.jpeg
-/content/my-data2/dataset/000274.jpeg
-/content/my-data2/dataset/feb-0246.jpeg
-/content/my-data2/dataset/feb-0070.jpeg
-/content/my-data2/dataset/000306.jpeg
+D:\NEW DATAS\git\new-datas/000008.jpg
+D:\NEW DATAS\git\new-datas/000016.jpg
+D:\NEW DATAS\git\new-datas/000027.jpg
+D:\NEW DATAS\git\new-datas/000028.jpg
+D:\NEW DATAS\git\new-datas/000031.jpg
+D:\NEW DATAS\git\new-datas/000032.jpg
+D:\NEW DATAS\git\new-datas/000035.jpg
+D:\NEW DATAS\git\new-datas/000039.jpg
+D:\NEW DATAS\git\new-datas/000040.jpg
+D:\NEW DATAS\git\new-datas/000042.jpg
+D:\NEW DATAS\git\new-datas/000043.jpg
+D:\NEW DATAS\git\new-datas/000049.jpg
+D:\NEW DATAS\git\new-datas/000050.jpg
+D:\NEW DATAS\git\new-datas/000065.jpg
+D:\NEW DATAS\git\new-datas/000067.jpg
+D:\NEW DATAS\git\new-datas/000086.jpg
+D:\NEW DATAS\git\new-datas/000088.jpg
+D:\NEW DATAS\git\new-datas/000097.jpg
+D:\NEW DATAS\git\new-datas/000100.jpg
+D:\NEW DATAS\git\new-datas/000103.jpg
+D:\NEW DATAS\git\new-datas/000105.jpg
+D:\NEW DATAS\git\new-datas/000107.jpg
+D:\NEW DATAS\git\new-datas/00011.jpg
+D:\NEW DATAS\git\new-datas/000114.jpg
+D:\NEW DATAS\git\new-datas/000117.jpg
+D:\NEW DATAS\git\new-datas/00012.jpg
+D:\NEW DATAS\git\new-datas/000121.jpg
+D:\NEW DATAS\git\new-datas/000144.jpg
+D:\NEW DATAS\git\new-datas/000145.jpg
+D:\NEW DATAS\git\new-datas/000178.jpg
+D:\NEW DATAS\git\new-datas/000180.jpg
+D:\NEW DATAS\git\new-datas/000188.jpg
+D:\NEW DATAS\git\new-datas/000190.jpg
+D:\NEW DATAS\git\new-datas/000194.jpg
+D:\NEW DATAS\git\new-datas/000206.jpg
+D:\NEW DATAS\git\new-datas/000215.jpg
+D:\NEW DATAS\git\new-datas/000217.jpg
+D:\NEW DATAS\git\new-datas/000219.jpg
+D:\NEW DATAS\git\new-datas/000223.jpg
+D:\NEW DATAS\git\new-datas/000224.jpg
+D:\NEW DATAS\git\new-datas/000225.jpg
+D:\NEW DATAS\git\new-datas/000229.jpg
+D:\NEW DATAS\git\new-datas/00023.jpg
+D:\NEW DATAS\git\new-datas/000235.jpg
+D:\NEW DATAS\git\new-datas/000239.jpg
+D:\NEW DATAS\git\new-datas/000242.jpg
+D:\NEW DATAS\git\new-datas/000244.jpg
+D:\NEW DATAS\git\new-datas/000246.jpg
+D:\NEW DATAS\git\new-datas/000247.jpg
+D:\NEW DATAS\git\new-datas/000250.jpg
+D:\NEW DATAS\git\new-datas/000253.jpg
+D:\NEW DATAS\git\new-datas/000256.jpg
+D:\NEW DATAS\git\new-datas/000259.jpg
+D:\NEW DATAS\git\new-datas/00026.jpg
+D:\NEW DATAS\git\new-datas/000264.jpg
+D:\NEW DATAS\git\new-datas/000265.jpg
+D:\NEW DATAS\git\new-datas/000267.jpg
+D:\NEW DATAS\git\new-datas/000270.jpg
+D:\NEW DATAS\git\new-datas/000274.jpg
+D:\NEW DATAS\git\new-datas/000275.jpg
+D:\NEW DATAS\git\new-datas/000281.jpg
+D:\NEW DATAS\git\new-datas/000283.jpg
+D:\NEW DATAS\git\new-datas/000284.jpg
+D:\NEW DATAS\git\new-datas/000286.jpg
+D:\NEW DATAS\git\new-datas/000290.jpg
+D:\NEW DATAS\git\new-datas/000291.jpg
+D:\NEW DATAS\git\new-datas/000299.jpg
+D:\NEW DATAS\git\new-datas/000301.jpg
+D:\NEW DATAS\git\new-datas/000302.jpg
+D:\NEW DATAS\git\new-datas/000306.jpg
+D:\NEW DATAS\git\new-datas/000309.jpg
+D:\NEW DATAS\git\new-datas/000310.jpg
+D:\NEW DATAS\git\new-datas/000313.jpg
+D:\NEW DATAS\git\new-datas/000330.jpg
+D:\NEW DATAS\git\new-datas/000333.jpg
+D:\NEW DATAS\git\new-datas/000334.jpg
+D:\NEW DATAS\git\new-datas/000336.jpg
+D:\NEW DATAS\git\new-datas/000339.jpg
+D:\NEW DATAS\git\new-datas/000343.jpg
+D:\NEW DATAS\git\new-datas/000344.jpg
+D:\NEW DATAS\git\new-datas/000347.jpg
+D:\NEW DATAS\git\new-datas/000348.jpg
+D:\NEW DATAS\git\new-datas/000349.jpg
+D:\NEW DATAS\git\new-datas/000351.jpg
+D:\NEW DATAS\git\new-datas/000352.jpg
+D:\NEW DATAS\git\new-datas/000355.jpg
+D:\NEW DATAS\git\new-datas/000356.jpg
+D:\NEW DATAS\git\new-datas/000358.jpg
+D:\NEW DATAS\git\new-datas/000360.jpg
+D:\NEW DATAS\git\new-datas/000361.jpg
+D:\NEW DATAS\git\new-datas/000364.jpg
+D:\NEW DATAS\git\new-datas/000368.jpg
+D:\NEW DATAS\git\new-datas/000370.jpg
+D:\NEW DATAS\git\new-datas/000375.jpg
+D:\NEW DATAS\git\new-datas/000378.jpg
+D:\NEW DATAS\git\new-datas/000379.jpg
+D:\NEW DATAS\git\new-datas/000382.jpg
+D:\NEW DATAS\git\new-datas/000383.jpg
+D:\NEW DATAS\git\new-datas/000388.jpg
+D:\NEW DATAS\git\new-datas/000390.jpg
+D:\NEW DATAS\git\new-datas/000392.jpg
+D:\NEW DATAS\git\new-datas/000395.jpg
+D:\NEW DATAS\git\new-datas/000398.jpg
+D:\NEW DATAS\git\new-datas/000400.jpg
+D:\NEW DATAS\git\new-datas/000401.jpg
+D:\NEW DATAS\git\new-datas/000402.jpg
+D:\NEW DATAS\git\new-datas/000403.jpg
+D:\NEW DATAS\git\new-datas/000404.jpg
+D:\NEW DATAS\git\new-datas/000405.jpg
+D:\NEW DATAS\git\new-datas/000406.jpg
+D:\NEW DATAS\git\new-datas/000407.jpg
+D:\NEW DATAS\git\new-datas/000408.jpg
+D:\NEW DATAS\git\new-datas/000409.jpg
+D:\NEW DATAS\git\new-datas/000410.jpg
+D:\NEW DATAS\git\new-datas/000412.jpg
+D:\NEW DATAS\git\new-datas/000439.jpg
+D:\NEW DATAS\git\new-datas/000442.jpg
+D:\NEW DATAS\git\new-datas/000447.jpg
+D:\NEW DATAS\git\new-datas/00049.jpg
+D:\NEW DATAS\git\new-datas/00052.jpg
+D:\NEW DATAS\git\new-datas/00056.jpg
+D:\NEW DATAS\git\new-datas/00057.jpg
+D:\NEW DATAS\git\new-datas/00085.jpg
+D:\NEW DATAS\git\new-datas/00093.jpg
+D:\NEW DATAS\git\new-datas/00095.jpg
+D:\NEW DATAS\git\new-datas/00096.jpg
+D:\NEW DATAS\git\new-datas/00103.jpg
+D:\NEW DATAS\git\new-datas/00130.jpg
+D:\NEW DATAS\git\new-datas/00134.jpg
+D:\NEW DATAS\git\new-datas/00135.jpg
+D:\NEW DATAS\git\new-datas/00151.jpg
+D:\NEW DATAS\git\new-datas/00162.jpg
+D:\NEW DATAS\git\new-datas/00165.jpg
+D:\NEW DATAS\git\new-datas/00166.jpg
+D:\NEW DATAS\git\new-datas/00173.jpg
+D:\NEW DATAS\git\new-datas/00184.jpg
+D:\NEW DATAS\git\new-datas/00192.jpg
+D:\NEW DATAS\git\new-datas/00198.jpg
