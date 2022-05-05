@@ -2,4 +2,4 @@ classes = 10
 train = /content/new-datas/train.txt
 valid = /content/new-datas/test.txt
 names = /content/new-datas/classes.names
-backup = /content/d/My Drive/backup/
+backup = /content/d/MyDrive/backup/
